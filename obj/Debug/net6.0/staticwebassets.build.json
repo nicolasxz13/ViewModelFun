@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "M7ELeccyFOnh5eyt9iiRYtznwAnQTTxHWOr6Fl2y7JU=",
+  "Source": "ViewModelFun",
+  "BasePath": "_content/ViewModelFun",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewModelFun\\wwwroot",
+      "Source": "ViewModelFun",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\ViewModelFun\\wwwroot\\",
+      "BasePath": "_content/ViewModelFun",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\ViewModelFun\\wwwroot\\css\\styles.css",
+      "SourceId": "ViewModelFun",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\ViewModelFun\\wwwroot\\",
+      "BasePath": "_content/ViewModelFun",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}

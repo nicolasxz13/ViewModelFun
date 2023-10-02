@@ -1,0 +1,13 @@
+@using ViewModelFun.Models;
+@model List<User>
+
+@{
+    ViewData["Title"] = "A Web Page - Users";
+}
+<h1>Here one some Users!</h1>
+<div class="startblock">
+    @foreach (User item in Model)
+    {
+        <p>@item.Name</p>
+    }
+</div>

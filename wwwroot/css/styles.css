@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 5em;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container p {
+    margin-top: 0.5em;
+}
+
+.message {
+    display: flex;
+    padding: 1em;
+    margin-left: 25em;
+    margin-right: 25em;
+}
+
+.startblock {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 1em;
+    width: 15em;
+    border: 2px solid black;
+    margin-left: 10em;
+    margin-top: 1em;
+}
+
+.user {
+    display: flex;
+    justify-content: center;
+    text-transform: capitalize;
+    font-weight: 900;
+    font-size: 3em;
+}
